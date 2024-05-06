@@ -3,10 +3,6 @@
 
 -----
 
-<p align="center">
-<img src="https://repository-images.githubusercontent.com/499265392/cdeb5cae-691b-49c7-9f65-56fc01d54813", width="500", height="500">
-</p>
-
 -----
 
 ### <p align="center">💥 Hyperion 💥</p>
@@ -98,4 +94,4 @@ If you like this repository, **star it** ! And if you want to share your opinion
 
 -----
 
-<p align="center"><strong>By Ferly Afriliyan : <a href="https://github.com/ferlyafriliyan/">github.com/ferlyafriliyan</a></strong></p>
+<p align="center"><strong>By Ferly Afriliyan : <a href="https://github.com/NyctophileSkyzo/">NyctophileSkyzo</a></strong></p>
